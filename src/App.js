@@ -1,5 +1,4 @@
 import { useRef, useState } from 'react';
-import './App.css';
 import { Tweet } from './Tweet';
 import { TweetForm } from './TweetForm';
 import { TweetList } from './TweetList';
